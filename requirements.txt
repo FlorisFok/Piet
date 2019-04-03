@@ -1,0 +1,5 @@
+pandas
+selenium
+gspread
+oauth2client
+APScheduler
